@@ -53,10 +53,10 @@ from phishing detection systems to AI-driven productivity tools.
 
 | Project | Description | Tech |
 |---|---|---|
-| 🛡️ [**EmailShield**](https://github.com/maneesha-24/Emailshield) | AI-powered email security tool detecting phishing, spoofing, scams & spam using SVM, BERT and SPF/DKIM/DMARC checks, with explainable results | Python, Flask, scikit-learn, Hugging Face |
-| 💰 [**FundChain**](https://github.com/maneesha-24/FundChain) | Decentralized crowdfunding DApp on Ethereum - campaign creation & ETH donations enforced entirely by a Solidity smart contract, no middlemen | Solidity, React, JavaScript, MetaMask |
-| ⏱️ [**RoutineSync**](https://github.com/maneesha-24/RoutineSync) | Browser-based AI productivity planner powered by Google Gemini - delivers personalized coaching insights, 100% client-side and private | React 19, TypeScript, Gemini API |
-| ✅ [**MyTaskSpace**](https://github.com/maneesha-24/MyTaskSpace) | Full-stack productivity web app with a private cloud workspace — daily timetable, planner, to-do list and PDF export, deployed on Railway | Flask, SQLite, JavaScript |
+| 🛡️[**EmailShield**](https://github.com/maneesha-24/Emailshield) | AI-powered email security tool detecting phishing, spoofing, scams & spam using SVM, BERT and SPF/DKIM/DMARC checks, with explainable results | Python, Flask, scikit-learn, Hugging Face |
+| 💰[**FundChain**](https://github.com/maneesha-24/FundChain) | Decentralized crowdfunding DApp on Ethereum - campaign creation & ETH donations enforced entirely by a Solidity smart contract, no middlemen | Solidity, React, JavaScript, MetaMask |
+| ⏱️[**RoutineSync**](https://github.com/maneesha-24/RoutineSync) | Browser-based AI productivity planner powered by Google Gemini - delivers personalized coaching insights, 100% client-side and private | React 19, TypeScript, Gemini API |
+| ✅[**MyTaskSpace**](https://github.com/maneesha-24/MyTaskSpace) | Full-stack productivity web app with a private cloud workspace — daily timetable, planner, to-do list and PDF export, deployed on Railway | Flask, SQLite, JavaScript |
 
 ---
 
