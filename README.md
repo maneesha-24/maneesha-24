@@ -2,8 +2,8 @@
 <h3 align="center">Building secure, AI-powered applications | AI/ML · Cybersecurity · Full-Stack</h3>
 
 <p align="center">
-  🎓 M.Tech in Computer Science (AI/ML) @ Dayananda Sagar University <br>
-  🔐 B.Tech CSE — Cybersecurity, IoT & Blockchain @ Siddharth Institute of Engineering & Technology <br>
+  🎓 M.Tech in Computer Science @ Dayananda Sagar University <br>
+  🔐 B.Tech CSE — IoT & Cybersecurity (CIC) @ Siddharth Institute of Engineering & Technology <br>
   📍 Bengaluru, Karnataka, India
 </p>
 
@@ -11,39 +11,41 @@
 
 ### 🚀 About Me
 
-I like knowing how things work under the hood — that curiosity is what pulled me toward tech.
-I build practical, end-to-end projects that combine **AI/ML with real-world problem solving**,
-from phishing detection systems to AI-driven productivity tools and decentralized apps.
+I like knowing how things work under the hood - that curiosity is what pulled me toward tech.
+I build practical, end-to-end projects that combine AI/ML with real-world problem solving,
+from phishing detection systems to AI-driven productivity tools.
 
 - 🔭 Currently building intelligent, secure software
 - 🌱 Currently deepening my skills in **Generative AI & Machine Learning**
-- 🤝 Open to collaborating on AI, cybersecurity, and full-stack projects
-- 💬 Ask me about Python, React, Flask, or ML pipelines
+- 🤝 Open to collaborating on AI, cybersecurity and full-stack projects
 
 ---
 
 ### 🛠️ Skills
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+### 💻 Programming Languages
+`Python` `JavaScript` `TypeScript` `Java` `SQL` `HTML` `CSS`
 
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+### 🌐 Web Development
+`React` `Flask` `REST APIs` `SQLite` `RDBMS` `Git` `GitHub`
 
-**AI/ML & Security**
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-critical?style=flat-square)
+### 🧠 Computer Science Fundamentals
+`Data Structures & Algorithms` `Object-Oriented Programming (OOP)` `Operating Systems` `Computer Networks` `DBMS` `Software Engineering` `System Design Fundamentals`
+
+### 🤖 AI & Machine Learning
+`Scikit-learn` `Pandas` `NumPy` `Machine Learning` `Deep Learning Fundamentals` `Neural Networks` `Natural Language Processing (NLP)` `BERT` `Sentiment Analysis` `Multi-Class Classification` `Explainable AI (XAI)`
+
+### 🚀 Generative AI
+`Prompt Engineering` `OpenAI API` `Gemini API` `LangChain` `Retrieval-Augmented Generation (RAG)` `Vector Databases` `AI Agents`
+
+### ☁️ Deployment & Development Tools
+`Docker Basics` `CI/CD Concepts` `Railway` `VS Code`
+
+### 🔐 Cybersecurity
+`Cryptography Fundamentals` `Network Security` `Vulnerability Assessment` `Threat Analysis` `security tools` `Privacy & Protection` `Cybersecurity Risk and Compliance`
+
+### 🤝 Professional Skills
+`Problem Solving` `Analytical Thinking` `Team Collaboration` `Adaptability` `Communication` `Attention to Detail`
 
 ---
 
