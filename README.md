@@ -53,24 +53,10 @@ from phishing detection systems to AI-driven productivity tools.
 
 | Project | Description | Tech |
 |---|---|---|
-| 🛡️ [**EmailShield**](https://github.com/maneesha-24/Emailshield) | AI-powered email security tool detecting phishing, spoofing, scams & spam using SVM, BERT, and SPF/DKIM/DMARC checks, with explainable results | Python, Flask, scikit-learn, Hugging Face |
-| 💰 [**FundChain**](https://github.com/maneesha-24/FundChain) | Decentralized crowdfunding DApp on Ethereum — campaign creation & ETH donations enforced entirely by a Solidity smart contract, no middlemen | Solidity, React, JavaScript, MetaMask |
-| ⏱️ [**RoutineSync**](https://github.com/maneesha-24/RoutineSync) | Browser-based AI productivity planner powered by Google Gemini — delivers personalized coaching insights, 100% client-side and private | React 19, TypeScript, Gemini API |
-| ✅ [**MyTaskSpace**](https://github.com/maneesha-24/MyTaskSpace) | Full-stack productivity web app with a private cloud workspace — daily timetable, planner, to-do list, and PDF export, deployed on Railway | Flask, SQLite, JavaScript |
-| 🗺️ [**CareerMap**](https://github.com/maneesha-24/CareerMap) | Tech career roadmap website to help navigate learning paths in software development | HTML, CSS |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maneesha-24&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneesha-24&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneesha-24&hide_border=true" />
-</p>
+| 🛡️ [**EmailShield**](https://github.com/maneesha-24/Emailshield) | AI-powered email security tool detecting phishing, spoofing, scams & spam using SVM, BERT and SPF/DKIM/DMARC checks, with explainable results | Python, Flask, scikit-learn, Hugging Face |
+| 💰 [**FundChain**](https://github.com/maneesha-24/FundChain) | Decentralized crowdfunding DApp on Ethereum - campaign creation & ETH donations enforced entirely by a Solidity smart contract, no middlemen | Solidity, React, JavaScript, MetaMask |
+| ⏱️ [**RoutineSync**](https://github.com/maneesha-24/RoutineSync) | Browser-based AI productivity planner powered by Google Gemini - delivers personalized coaching insights, 100% client-side and private | React 19, TypeScript, Gemini API |
+| ✅ [**MyTaskSpace**](https://github.com/maneesha-24/MyTaskSpace) | Full-stack productivity web app with a private cloud workspace — daily timetable, planner, to-do list and PDF export, deployed on Railway | Flask, SQLite, JavaScript |
 
 ---
 
