@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maneesha</h1>
-<h3 align="center">Building secure, AI-powered applications | AI/ML · Cybersecurity · Full-Stack</h3>
+<h3 align="center">Building secure, AI-powered applications | AI/ML · Cybersecurity </h3>
 
 <p align="center">
   🎓 M.Tech in Computer Science @ Dayananda Sagar University <br>
