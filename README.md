@@ -16,7 +16,7 @@ I build practical, end-to-end projects that combine AI/ML with real-world proble
 from phishing detection systems to AI-driven productivity tools.
 
 - 🔭 Currently building intelligent, secure software
-- 🌱 Currently deepening my skills in **Generative AI & Machine Learning**
+- 🌱 Currently deepening my skills in Generative AI & Machine Learning
 - 🤝 Open to collaborating on AI, cybersecurity and full-stack projects
 
 ---
